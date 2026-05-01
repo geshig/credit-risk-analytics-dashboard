@@ -40,7 +40,7 @@ UCI Credit Card Default dataset:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](Credit_risk_dashboard.png)
 
 ## Author
 
